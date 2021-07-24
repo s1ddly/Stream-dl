@@ -1,0 +1,6 @@
+; DO NOT MODIFY!
+[MAIN]
+tool=ffprobe
+bits=64
+ver=N-90709-ga56580b117
+date=

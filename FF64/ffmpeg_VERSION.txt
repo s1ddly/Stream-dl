@@ -1,0 +1,12 @@
+ffmpeg version N-90709-ga56580b117 Copyright (c) 2000-2018 the FFmpeg developers
+built with gcc 7.1.0 (GCC)
+configuration: --arch=x86_64 --target-os=mingw32 --cross-prefix=/home/jacek/ffenv/04/jpff/cross_compilers/mingw-w64-x86_64/bin/x86_64-w64-mingw32- --pkg-config=pkg-config --pkg-config-flags=--static --enable-gray --enable-version3 --disable-debug --disable-doc --disable-htmlpages --disable-manpages --disable-podpages --disable-txtpages --disable-w32threads --disable-network --disable-doc --extra-cflags=-DPTW32_STATIC_LIB --extra-libs=-lstdc++ --enable-gpl --enable-version3 --enable-libmp3lame --enable-zlib --extra-cflags=-DLIBTWOLAME_STATIC --extra-cflags=-DMODPLUG_STATIC --extra-cflags=-DCACA_STATIC --extra-cflags='-mtune=generic' --extra-cflags=-O3 --enable-shared --disable-static --prefix=/home/jacek/ffenv/04/jpff/win64/ffmpeg_git_with_fdk_aac_xp_compat_shared
+libavutil      56. 13.100 / 56. 13.100
+libavcodec     58. 17.100 / 58. 17.100
+libavformat    58. 11.101 / 58. 11.101
+libavdevice    58.  2.100 / 58.  2.100
+libavfilter     7. 15.100 /  7. 15.100
+libswscale      5.  0.102 /  5.  0.102
+libswresample   3.  0.101 /  3.  0.101
+libpostproc    55.  0.100 / 55.  0.100
+
